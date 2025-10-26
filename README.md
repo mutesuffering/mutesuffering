@@ -1,4 +1,5 @@
 
+
 # 👋 Hey, I'm **AmtiX**
 
 💡 A passionate developer who loves creating interactive web experiences, Discord bots, and creative frameworks that blend design and functionality.  
@@ -15,9 +16,31 @@
 
 ---
 
+
 ### 🛠️ Tech Stack
+#### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,html,css,ejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,php,java,cpp,cs,ruby,go,rust,lua,julia,bash" />
+</p>
+
+#### 🧩 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,react,next,discordjs" />
+</p>
+
+#### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,sqlite" />
+</p>
+
+#### 🧠 Other Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+#### 🧰 Tools & Apps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=discord,blender,ps,ae" />
 </p>
 
 ---
@@ -40,8 +63,7 @@
 ---
 
 ### ⚡ Featured Projects
-### soon
-
+### Velvra...
 ---
 
 ### 🌐 Connect With Me
