@@ -16,8 +16,8 @@
 
 ---
 
-
 ### 🛠️ Tech Stack
+
 #### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,php,java,cpp,cs,ruby,go,rust,lua,julia,bash" />
@@ -40,7 +40,22 @@
 
 #### 🧰 Tools & Apps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=discord,blender,ps,ae" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,arch,discord,blender,ps,ae" />
+</p>
+
+---
+
+### 📍 Me
+<p align="center">
+  <a href="https://discord.com/users/246354195979042817" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="48px" />
+  </a>
+  <a href="https://x.com/AmtiXDev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48px" />
+  </a>
+  <a href="https://www.instagram.com/amtixdev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48px" />
+  </a>
 </p>
 
 ---
@@ -55,7 +70,7 @@
 
 ### 🎧 Discord Status
 <p align="center">
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/246354195979042817">
     <img src="https://lanyard.cnrad.dev/api/246354195979042817?theme=dark&bg=1a1b27&borderRadius=10px&animated=true&idleMessage=Probably%20coding%20something%20cool..." alt="Discord Status"/>
   </a>
 </p>
@@ -64,13 +79,17 @@
 
 ### ⚡ Featured Projects
 ### Velvra...
+
 ---
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/mutesuffering"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:contact@creativeframework.site"><img src="https://img.shields.io/badge/Email-contact@creativeframework.site-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href=""><img src="https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:contact@creativeframework.site" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48px" />
+  </a>
+  <a href="https://discord.gg/kANGqx4Frn" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="48px" />
+  </a>
 </p>
 
 ---
@@ -78,3 +97,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C0FF&height=100&section=footer" />
 </p>
+
