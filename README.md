@@ -1,4 +1,6 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C0FF&height=250&section=header" />
 
 # 👋 Hey, I'm **AmtiX**
 
@@ -66,6 +68,9 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutesuffering&theme=tokyonight" />
 </p>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mutesuffering&theme=tokyo-night&hide_border=true)
+
+
 ---
 
 ### 🎧 Discord Status
@@ -95,6 +100,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C0FF&height=100&section=footer" />
-</p>
-
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C0FF&height=100&section=footer" />
+</div>
