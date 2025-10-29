@@ -66,6 +66,8 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mutesuffering&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mutesuffering&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutesuffering&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mutesuffering&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
   <img src="https://komarev.com/ghpvc/?username=mutesuffering" alt="views" />
 </p>
 
