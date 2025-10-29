@@ -22,7 +22,7 @@
 
 #### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,php,java,cpp,cs,ruby,go,rust,lua,julia,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,go,php,java,cpp,cs,c,ruby,go,rust,lua,julia,bash" />
 </p>
 
 #### 🧩 Frameworks & Libraries
