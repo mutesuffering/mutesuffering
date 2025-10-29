@@ -94,7 +94,7 @@
   <a href="mailto:contact@creativeframework.site" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="48px" />
   </a>
-  <a href="https://discord.gg/kANGqx4Frn" target="_blank">
+  <a href="https://discord.gg/fDkjPNN6sP" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="48px" />
   </a>
 </p>
