@@ -47,7 +47,7 @@
 
 ---
 
-### 📍 Me
+### 📍 Follow me here
 <p align="center">
   <a href="https://discord.com/users/246354195979042817" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="48px" />
